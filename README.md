@@ -1,9 +1,7 @@
-<p align="center">
-  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dunkbing&show_icons=true&theme=tokyonight" />
-</p>
-
-Hi, I'm from Vietnam...!
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/65/flag-for-vietnam_1f1fb-1f1f3.png" alt="Flag of Vietnam" width="20" />
+Hi, I'm a student & indie gamedev(kinda) from Vietnam.
+Pls take a look at my games:
+- [Cyber Purr](https://github.com/dunkbing/cyber-purr)
+- [Jumping Ball](https://github.com/dunkbing/mah-ball)
 
 <p align="center">
   <a href="https://join.skype.com/invite/Y9I2egFWVxQB" target="_blank">
@@ -19,3 +17,7 @@ Hi, I'm from Vietnam...!
     <img alt="My LinkedIn" src="linkedin.png" width="30" />
   </a>
 </p>
+
+---
+
+![My CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dunkbing&branding=false)
