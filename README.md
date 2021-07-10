@@ -1,4 +1,4 @@
-Hi, I'm a student & indie gamedev(kinda) from Vietnam.
+I'm a student & indie gamedev(kinda) from Vietnam.
 Pls take a look at my games:
 - [Cyber Purr](https://github.com/dunkbing/cyber-purr)
 - [Jumping Ball](https://github.com/dunkbing/mah-ball)
