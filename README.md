@@ -1,7 +1,7 @@
 I'm a student & indie gamedev(kinda) from Vietnam.
 Pls take a look at my games:
 - [Cyber Purr](https://github.com/dunkbing/cyber-purr)
-- [Jumping Ball](https://github.com/dunkbing/mah-ball)
+- [Jumping Ball](https://github.com/dunkbing/mah-ball) ([Play](https://dunkbing.itch.io/jumping-ball))
 
 <p align="center">
   <a href="https://join.skype.com/invite/Y9I2egFWVxQB" target="_blank">
@@ -17,7 +17,3 @@ Pls take a look at my games:
     <img alt="My LinkedIn" src="linkedin.png" width="30" />
   </a>
 </p>
-
----
-
-![My CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dunkbing&branding=false)
