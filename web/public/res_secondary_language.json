@@ -1,0 +1,93 @@
+{
+    "basic_info": {
+      "description_header": "Shin Chào",
+      "description": "👋 Mình là Bình, 22 tuổi. Hiện đang theo học ngành kỹ thuật phần mềm ở Đại học FPT.",
+      "section_name": {
+        "about": "Giới thiệu",
+        "projects": "Sản phẩm",
+        "skills": "Kỹ năng",
+        "experience": "Kinh nghiệm"
+      }
+    },
+    "projects": [
+      {
+        "title": "Jumping Ball",
+        "startDate": "2021",
+        "description": "You play as a ball jumping around, trying to survive by not touching the lava.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.png",
+          "images/portfolio/animal-shelter/p2.png"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.dunkbing.JumpingBall",
+        "technologies": [
+          {
+            "name": "Unity"
+          },
+          {
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Cyber Purr",
+        "startDate": "2021",
+        "description": "A simple game I made during training time at gameloft",
+        "images": [],
+        "url": "https://github.com/dunkbing/cyber-purr",
+        "technologies": [
+          {
+            "name": "Unity"
+          },
+          {
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Fly me to the moon",
+        "startDate": "2021",
+        "description": "wip",
+        "images": [],
+        "url": "https://github.com/dunkbing/fly-to-moon",
+        "technologies": [
+          {
+            "name": "Unity"
+          },
+          {
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "VietIS",
+        "title": "NodeJS Intern",
+        "years": "5.2020 - 10.2020",
+        "mainTech": [
+          "NodeJS"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "TypeORM",
+          "NestJS",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Gameloft",
+        "title": "Fresher C++",
+        "years": "03.2021 - present",
+        "mainTech": [
+          "C++"
+        ],
+        "technologies": [
+          "C++",
+          "C#",
+          "Unity",
+          "Golang"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,43 @@
+{
+    "basic_info": {
+      "name": "Bùi Đặng Bình",
+      "titles": ["Game Developer", "Software Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/dunkbing",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/dunkbingg",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "JavaScript",
+          "level": "70"
+        },
+        {
+          "name": "Unity",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "level": "65"
+        },
+        {
+          "name": "C++",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "level": "60"
+        }
+      ]
+    }
+  }
