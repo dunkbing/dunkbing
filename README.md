@@ -5,15 +5,15 @@ Pls take a look at my games:
 
 <p align="center">
   <a href="https://join.skype.com/invite/Y9I2egFWVxQB" target="_blank">
-    <img alt="Skype me" src="skype.png" width="30" />
+    <img alt="Skype me" src="assets/skype.png" width="30" />
   </a>
   <a href="mailto:dangbinh4869@gmail.co" target="_blank">
-    <img alt="Email me" src="gmail.png" width="30" />
+    <img alt="Email me" src="assets/gmail.png" width="30" />
   </a>
   <a href="https://www.facebook.com/dunkbing.kudo/" target="_blank">
-    <img alt="My Facebook" src="fb.png" width="30" />
+    <img alt="My Facebook" src="assets/fb.png" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/binh-bui-20a28a18a/" target="_blank">
-    <img alt="My LinkedIn" src="linkedin.png" width="30" />
+    <img alt="My LinkedIn" src="assets/linkedin.png" width="30" />
   </a>
 </p>
