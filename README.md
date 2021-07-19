@@ -1,7 +1,7 @@
 <h1 align="center">Bui Dang Binh</h1> 
----
-I'm a student & indie gamedev(kinda) from Vietnam.
-Pls take a look at my games:
+
+<p>I'm a student & indie gamedev(kinda) from Vietnam. Pls take a look at my games:</p>
+
 - [Cyber Purr](https://github.com/dunkbing/cyber-purr)
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
 - [Jumping Ball](https://github.com/dunkbing/mah-ball) ([Play](https://dunkbing.itch.io/jumping-ball))
