@@ -3,9 +3,11 @@
 <p>I'm a student & indie gamedev(kinda) from Vietnam. Pls take a look at my games:</p>
 
 - [Cyber Purr](https://github.com/dunkbing/cyber-purr)
-[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
-- [Jumping Ball](https://github.com/dunkbing/mah-ball) ([Play](https://dunkbing.itch.io/jumping-ball))
-[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
+[![Play](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://unity3d.com)
+- [Jumping Ball](https://github.com/dunkbing/mah-ball)
+[![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.dunkbing.JumpingBall)
+- [Floppy Ship](https://github.com/dunkbing/mah-ball)
+[![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.dunkbing.FloppyShip)
 ---
 <table width="100%">
   <td valign="top" width="40%">
@@ -34,6 +36,7 @@
   <a href="https://www.linkedin.com/in/binh-bui-20a28a18a/" target="_blank">
     <img alt="My LinkedIn" src="assets/linkedin.png" width="30" />
   </a>
-  <a href="https://dunkbing.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=aseprite&logoColor=white"></a>
-  <a href="#" target="_blank"><img alt="View" src="https://en46xhi8fx4sb26.m.pipedream.net"></a>
+  <a href="https://dunkbing.github.io/" target="_blank">
+    <img alt="My Website" src="https://img.shields.io/badge/My%20Website-brown">
+  </a>
 </p>
