@@ -1,6 +1,9 @@
 <h1 align="center">Bui Dang Binh</h1> 
 
-<p>I'm a student & indie gamedev(kinda) from Vietnam. Pls take a look at my games:</p>
+<p>
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</p>
 
 - [Cyber Purr](https://github.com/dunkbing/cyber-purr)
 [![Play](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://unity3d.com)
