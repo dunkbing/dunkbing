@@ -1,0 +1,53 @@
+name: Build and Deploy Resume
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set TAG_NAME
+        id: set_tag_name
+        run: |
+          echo "TAG_NAME=v$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
+        shell: bash
+
+      - name: Install XeLaTeX
+        run: |
+          sudo apt-get -yq update
+          sudo apt-get -yq install texlive-xetex
+        shell: bash
+
+      - name: Set up Pandoc
+        run: |
+          sudo apt-get -yq install pandoc
+        shell: bash
+
+      - name: Build Resume
+        run: |
+          mkdir -p output
+          make all
+
+      - name: Create Tag
+        run: |
+          git tag ${{ env.TAG_NAME }}
+          git push origin ${{ env.TAG_NAME }}
+
+      - name: Create Release
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: output/*
+          token: ${{ secrets.GH_TOKEN }}
+          tag_name: ${{ env.TAG_NAME }}
+
+      - name: Upload Release Asset
+        uses: softprops/action-gh-release@v1
+        with:
+          files: output/*
+          token: ${{ secrets.GH_TOKEN }}
+          tag_name: ${{ env.TAG_NAME }}
