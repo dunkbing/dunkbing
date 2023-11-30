@@ -9,11 +9,11 @@ all: docx pdf
 
 docx:
 	@mkdir -p $(OUTPUT_DIR)
-	pandoc $(RESUME) -o $(OUTPUT_DIR)/resume-$(BRANCH_NAME).docx
+	pandoc $(RESUME) -o $(OUTPUT_DIR)/BinhBD_resume-$(BRANCH_NAME).docx
 
 pdf:
 	@mkdir -p $(OUTPUT_DIR)
-	pandoc $(RESUME) -o $(OUTPUT_DIR)/resume-$(BRANCH_NAME).pdf \
+	pandoc $(RESUME) -o $(OUTPUT_DIR)/BinhBD_resume-$(BRANCH_NAME).pdf \
 		--pdf-engine=xelatex \
 		--variable geometry:margin=1in \
 		--variable fontsize=12pt \
