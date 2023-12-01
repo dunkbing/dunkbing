@@ -18,6 +18,7 @@ pdf:
 	pandoc $(RESUME) -o $(OUTPUT_DIR)/BinhBD_resume-$(BRANCH_NAME).pdf \
 		--pdf-engine=xelatex \
 		--variable mainfont="JetBrainsMono-Regular" \
+		--variable boldfont="JetBrainsMono-Bold" \
 		--variable geometry:margin=1in \
 		--variable fontsize=12pt \
 		--variable documentclass=article \

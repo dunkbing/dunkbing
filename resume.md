@@ -7,8 +7,8 @@ header-includes:
 
 | **Name**          | Bui Dang Binh                                   |
 | ------------------| ----------------------------------------------- |
-| **Location**      | Văn Phú, Hà Đông, Hà Nội                        |
-| **Phone**         | +84*******                                      |
+| **Location**      | Van Phu, Ha Dong, Ha Noi                        |
+| **Phone**         | +84*********                                    |
 | **Email**         | <************@gmail.com>                        |
 | **Personal Site** | [dunkbing.github.io](https://dunkbing.github.io)|
 | **Github**        | [dunkbing](https://github.com/dunkbing)         |
@@ -76,12 +76,12 @@ header-includes:
 
 ## Technical Skills
 
-- **Programming Languages:**: Golang, NodeJS, Javascript/Typescript
-- **Tools:**: Git, Vim, Tmux, Postman, VsCode, Jetbrains IDE, Jira
-- **Databases:**: PostgreSQL, Redis, MongoDB
-- **Shell Scripting and Linux Experience:**: Ubuntu, CentOS
-- **CI/CD Tools:**: GitlabCI, GitHub Actions, CircleCI
-- **Cloud Services and Containerization:**: AWS, DigitalOcean, Docker, Kubernetes
+- **Programming Languages**: Golang, NodeJS, Javascript/Typescript
+- **Tools**: Git, Vim, Tmux, Postman, VsCode, Jetbrains IDE, Jira
+- **Databases**: PostgreSQL, Redis, MongoDB
+- **Shell Scripting and Linux Experience**: Ubuntu, CentOS
+- **CI/CD Tools**: GitlabCI, GitHub Actions, CircleCI
+- **Cloud Services and Containerization**: AWS, DigitalOcean, Docker, Kubernetes
 
 ## PERSONAL PROJECTS
 
