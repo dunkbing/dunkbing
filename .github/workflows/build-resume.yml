@@ -16,6 +16,13 @@ jobs:
           echo "TAG_NAME=v$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
         shell: bash
 
+      - name: Set up JetBrains Mono font
+        run: |
+          mkdir -p $HOME/.fonts
+          cp -r fonts/* $HOME/.fonts/
+          fc-cache -f -v
+        shell: bash
+
       - name: Install XeLaTeX
         run: |
           sudo apt-get -yq update
