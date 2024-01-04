@@ -8,8 +8,8 @@ header-includes:
 | **Name**          | Bui Dang Binh                                   |
 | ------------------| ----------------------------------------------- |
 | **Location**      | Van Phu, Ha Dong, Ha Noi                        |
-| **Phone**         | +84*********                                    |
-| **Email**         | <************@gmail.com>                        |
+| **Phone**         | +84393631923                                    |
+| **Email**         | <dangbinh4869@gmail.com>                        |
 | **Personal Site** | [dunkbing.github.io](https://dunkbing.github.io)|
 | **Github**        | [dunkbing](https://github.com/dunkbing)         |
 | **Skype**         | dangbinh4869                                    |
@@ -37,7 +37,7 @@ header-includes:
 
   - Technologies used: Nodejs, React, MySql, AWS S3/Lambda/RDS.
 
-### Just Get Visible - Full-stack Developer
+### Just Get Visible - Full-stack Developer (Freelance)
 
 - **Feb 2022 - Feb 2023**
   - Developed [Securiwiser](https://www.securiwiser.com/), a vulnerability scanner application based in The UK.
@@ -52,7 +52,7 @@ header-includes:
 
 ### VAIS (Vietnam AI System) - Backend Developer
 
-- **Nov 2020 - Nov 2022**
+- **Nov 2021 - Dec 2022**
   - Key projects:
     1. [Memobot](https://memobot.io/) - A speech-to-text voice recording application.
        - Collaborated in designing and developing a meeting bot service for online meetings.
@@ -70,7 +70,7 @@ header-includes:
 
 ### Gameloft Ha Noi - Leap Program Participant
 
-- **Mar 2020 - Jul 2020**
+- **Mar 2021 - Sep 2021**
   - Immersed in Gameloft’s Leap Program, contributing to an agile development culture.
   - Gained experience in C++, C#, and Unity, and developed soft skills.
 
@@ -80,16 +80,16 @@ header-includes:
 - **Tools**: Git, Vim, Tmux, Postman, VsCode, Jetbrains IDE, Jira
 - **Databases**: PostgreSQL, Redis, MongoDB
 - **Shell Scripting and Linux Experience**: Ubuntu, CentOS
-- **CI/CD Tools**: GitlabCI, GitHub Actions, CircleCI
+- **CI/CD Tools**: GitlabCI, GitHub Actions
 - **Cloud Services and Containerization**: AWS, DigitalOcean, Docker, Kubernetes
 
 ## PERSONAL PROJECTS
 
 1. [Text2Audio](https://text2audio.cc) - An online text-to-speech tool built with Deno and Fresh for API and front-end, Google API for speech conversion, and Cloudflare R2 for audio storage. It has about 20k page views per month.
-2. [M33t](https://m33t.deno.dev) - A free group video call app for the web built with Deno, Fresh, and WebRTC, compatible with all major browsers.
-3. [Meeting bot](https://github.com/dunkbing/meeting-bot) - A Golang bot designed for recording online meetings, used in the [Memobot](https://memobot.io/) application.
-4. [Personal site](https://dunkbing.github.io) - My personal website and portfolio page. The UI was built with React/NextJS/Tailwind, I also utilized GitHub Actions to deploy it to GitHub Pages.
-5. [Video app (NSFW)](https://github.com/dunkbing/p0rn-video-app) - A web application for watching videos from an R-rated site.
+2. [Tiny IMG](https://tinyimg.cc) - A web app that compresses images. It was built with Golang, Preact and Tailwind. I used it to learn about the Go standard library and the image package.
+3. [M33t](https://m33t.deno.dev) - A free group video call app for the web built with Deno, Fresh, and WebRTC, compatible with all major browsers.
+4. [Meeting bot](https://github.com/dunkbing/meeting-bot) - A Golang bot designed for recording online meetings, used in the [Memobot](https://memobot.io/) application.
+5. [Personal site](https://dunkbing.github.io) - My personal website and portfolio page. The UI was built with React/NextJS/Tailwind, I also utilized GitHub Actions to deploy it to GitHub Pages.
 6. [Resume management with Git](https://github.com/dunkbing/dunkbing) - A repository that stores my Github profile configs and helps manage my resume with GitHub Actions. I wrote a [detailed post](https://dev.to/dunkbing/managing-my-resume-with-git-a-version-control-approach-7hk) about it [here](https://dev.to/dunkbing/managing-my-resume-with-git-a-version-control-approach-7hk).
 
 ## EDUCATION
