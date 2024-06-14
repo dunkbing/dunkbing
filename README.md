@@ -33,6 +33,6 @@
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/dunkbing/dunkbing">dunkbing</a>
+    From <a href="https://db99.dev">dunkbing</a>
   </p>
 </samp>
