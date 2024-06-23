@@ -8,8 +8,8 @@ header-includes:
 | **Name**          | Bui Dang Binh                                   |
 | ------------------| ----------------------------------------------- |
 | **Location**      | Van Phu, Ha Dong, Ha Noi                        |
-| **Phone**         | +84393631923                                    |
-| **Email**         | <dangbinh4869@gmail.com>                        |
+| **Phone**         | +8439*******                                    |
+| **Email**         | <dangbinh****@gmail.com>                        |
 | **Personal Site** | [dunkbing.github.io](https://dunkbing.github.io)|
 | **Github**        | [dunkbing](https://github.com/dunkbing)         |
 | **Skype**         | dangbinh4869                                    |
