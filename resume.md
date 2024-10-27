@@ -10,7 +10,7 @@ header-includes:
 | **Location**      | Van Phu, Ha Dong, Ha Noi                        |
 | **Phone**         | +8439*******                                    |
 | **Email**         | <dangbinh****@gmail.com>                        |
-| **Personal Site** | [dunkbing.github.io](https://dunkbing.github.io)|
+| **Personal Site** | [db99.dev](https://db99.dev)                    |
 | **Github**        | [dunkbing](https://github.com/dunkbing)         |
 | **Skype**         | dangbinh4869                                    |
 
@@ -86,11 +86,10 @@ header-includes:
 ## PERSONAL PROJECTS
 
 1. [Text2Audio](https://text2audio.cc) - An online text-to-speech tool built with Deno and Fresh for API and front-end, Google API for speech conversion, and Cloudflare R2 for audio storage. It has about 20k page views per month.
-2. [Tiny IMG](https://tinyimg.cc) - A web app that compresses images. It was built with Golang, Preact and Tailwind. I used it to learn about the Go standard library and the image package.
-3. [M33t](https://m33t.deno.dev) - A free group video call app for the web built with Deno, Fresh, and WebRTC, compatible with all major browsers.
+2. [Tikim](https://apps.apple.com/app/tikim/id6727017255) - A personal expense tracker iOS app made with SwiftUI.
+3. [TypeView](https://typeview.db99.dev) - A keystrokes visualizer and mechanical key sound simulator, useful for tutorials and presentations.
 4. [Meeting bot](https://github.com/dunkbing/meeting-bot) - A Golang bot designed for recording online meetings, used in the [Memobot](https://memobot.io/) application.
-5. [Personal site](https://dunkbing.github.io) - My personal website and portfolio page. The UI was built with React/NextJS/Tailwind, I also utilized GitHub Actions to deploy it to GitHub Pages.
-6. [Resume management with Git](https://github.com/dunkbing/dunkbing) - A repository that stores my Github profile configs and helps manage my resume with GitHub Actions. I wrote a [detailed post](https://dev.to/dunkbing/managing-my-resume-with-git-a-version-control-approach-7hk) about it [here](https://dev.to/dunkbing/managing-my-resume-with-git-a-version-control-approach-7hk).
+5. [Resume management with Git](https://github.com/dunkbing/dunkbing) - A repository that stores my Github profile configs and helps manage my resume with GitHub Actions. I wrote a [detailed post](https://dev.to/dunkbing/managing-my-resume-with-git-a-version-control-approach-7hk) about it [here](https://dev.to/dunkbing/managing-my-resume-with-git-a-version-control-approach-7hk).
 
 ## EDUCATION
 
