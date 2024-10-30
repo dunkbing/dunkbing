@@ -8,8 +8,8 @@ header-includes:
 | **Name**          | Bui Dang Binh                                   |
 | ------------------| ----------------------------------------------- |
 | **Location**      | Van Phu, Ha Dong, Ha Noi                        |
-| **Phone**         | +8439*******                                    |
-| **Email**         | <dangbinh****@gmail.com>                        |
+| **Phone**         | +84393631923                                    |
+| **Email**         | <dangbinh4869@gmail.com>                        |
 | **Personal Site** | [db99.dev](https://db99.dev)                    |
 | **Github**        | [dunkbing](https://github.com/dunkbing)         |
 | **Skype**         | dangbinh4869                                    |
@@ -24,9 +24,20 @@ header-includes:
 
 ## EXPERIENCES
 
+### [Siraya Tech](https://sirayatech.com/) (Freelancer)
+
+- **Dec 2023 - Present**
+  - Develop a wrapper system around a CDN system using their existing API (CDNetworks).
+  - Responsibilities:
+    - Developed and designed the system API and the frontend.
+    - Help deploying the backend and frontend to VPS.
+    - Collaborated with Taiwan-based team to ensure alignment with software requirements
+
+  - Technologies used: Golang, React, MySql.
+
 ### FPT Software - Full-stack Developer
 
-- **Feb 2023 - Present**
+- **Feb 2023 - Dec 2023**
   - Contributed to the Smart Inventory Management System, optimizing data management for KrisShop E-commerce (Singapore Airlines).
   - Responsibilities:
     - Maintained and developed features using Nodejs, React, and AWS services.
@@ -68,12 +79,6 @@ header-includes:
   - Backend techs: Go, NodeJS, PostgreSQL, Redis, Docker, DigitalOcean.
   - Frontend techs: React/NextJs, Tailwind.
 
-### Gameloft Ha Noi - Leap Program Participant
-
-- **Mar 2021 - Sep 2021**
-  - Immersed in Gameloft’s Leap Program, contributing to an agile development culture.
-  - Gained experience in C++, C#, and Unity, and developed soft skills.
-
 ## Technical Skills
 
 - **Programming Languages**: Golang, NodeJS, Javascript/Typescript
@@ -86,10 +91,19 @@ header-includes:
 ## PERSONAL PROJECTS
 
 1. [Tikim](https://apps.apple.com/app/tikim/id6727017255) - A personal expense tracker iOS app made with SwiftUI.
+
+**Features**
+
+- Daily expense tracking.
+- Statistical charts.
+- Comprehensive assets/budgets management.
+- No login/sign-up required.
+- ICloud sync.
+- Fast and lightweight.
+
 2. [Text2Audio](https://text2audio.cc) - An online text-to-speech tool built with Deno and Fresh for API and front-end, Google API for speech conversion, and Cloudflare R2 for audio storage. It has about 20k page views per month.
 3. [TypeView](https://typeview.db99.dev) - A keystrokes visualizer and mechanical key sound simulator, useful for tutorials and presentations.
-4. [Meeting bot](https://github.com/dunkbing/meeting-bot) - A Golang bot designed for recording online meetings, used in the [Memobot](https://memobot.io/) application.
-5. [Resume management with Git](https://github.com/dunkbing/dunkbing) - A repository that stores my Github profile configs and helps manage my resume with GitHub Actions. I wrote a [detailed post](https://dev.to/dunkbing/managing-my-resume-with-git-a-version-control-approach-7hk) about it [here](https://dev.to/dunkbing/managing-my-resume-with-git-a-version-control-approach-7hk).
+4. [Resume management with Git](https://github.com/dunkbing/dunkbing) - A repository that stores my Github profile configs and helps manage my resume with GitHub Actions. I wrote a [detailed post](https://dev.to/dunkbing/managing-my-resume-with-git-a-version-control-approach-7hk) about it [here](https://dev.to/dunkbing/managing-my-resume-with-git-a-version-control-approach-7hk).
 
 ## EDUCATION
 
