@@ -5,92 +5,75 @@ header-includes:
 
 # Bui Dang Binh
 
-| **Name**          | Bui Dang Binh                                   |
-| ------------------| ----------------------------------------------- |
-| **Location**      | Van Phu, Ha Dong, Ha Noi                        |
-| **Phone**         | +8439*******                                    |
-| **Email**         | <dangbinh****@gmail.com>                        |
-| **Personal Site** | [db99.dev](https://db99.dev)                    |
-| **Github**        | [dunkbing](https://github.com/dunkbing)         |
-| **Skype**         | dangbinh4869                                    |
+| **Contact**      | **Links**                                       |
+|------------------|-------------------------------------------------|
+| Location         | Van Phu, Ha Dong, Ha Noi                        |
+| Phone            | +84393631923                                    |
+| Email            | dangbinh4869@gmail.com                          |
+| Personal Site    | [db99.dev](https://db99.dev)                    |
+| Github           | [dunkbing](https://github.com/dunkbing)         |
+| Skype            | dangbinh4869                                    |
 
 ## SUMMARY
-
-- Experienced backend developer adept at developing, testing, and deploying web applications.
-- Good English communication skills demonstrated through successful collaboration on international projects.
-- Proficient in NodeJS and Golang, with over 3 years of JavaScript programming expertise.
-- Well-versed in cloud services such as AWS and DigitalOcean, and experienced in containerization technologies like Docker and K8s.
-- Enthusiastic about learning new technologies and committed to continuous skill improvement.
+Experienced backend developer with expertise in web application development, testing, and deployment. Over 3 years of programming experience specializing in NodeJS and Golang. Proven track record in cloud services (AWS, DigitalOcean) and containerization (Docker, K8s). Strong English communication skills demonstrated through successful international project collaborations.
 
 ## EXPERIENCES
 
-### FPT Software - Full-stack Developer
+### [Tikim](https://apps.apple.com/vn/app/tikim-expense-tracker/id6727017255) - Aug 2024 - Present
+- Native iOS expense tracker app with iCloud sync
+- Features: Daily expense tracking, statistical charts, budgets & assets management
+- 10k+ downloads
+- Technologies: SwiftUI, CoreData, CloudKit
 
-- **Feb 2023 - Present**
-  - Contributed to the Smart Inventory Management System, optimizing data management for KrisShop E-commerce (Singapore Airlines).
-  - Responsibilities:
-    - Maintained and developed features using Nodejs, React, and AWS services.
-    - Conducted customer meetings, estimated tasks, and managed project tasks.
-    - Reviewed code, optimized performance, and collaborated directly with the Singapore team.
-    - Collaborated directly with the Singapore team to meet software requirements.
-    - Worked closely with QA teams to diagnose and troubleshoot errors.
+### FPT Software (Full-stack Developer) - Feb 2023 - Dec 2023
+- Contributed to KrisShop E-commerce's Smart Inventory Management System
+- Maintained and developed features using Node.js, React, and AWS services
+- Participated in customer meetings and managed assigned project tasks
+- Optimized performance and collaborated with Singapore-based team
+- Worked closely with QA teams for error diagnosis and resolution
+- Technologies: Node.js, React, MySQL, AWS (S3/Lambda/RDS)
 
-  - Technologies used: Nodejs, React, MySql, AWS S3/Lambda/RDS.
+### Just Get Visible (Full-stack Developer) - Feb 2022 - Feb 2023
+- Developed Securiwiser, a UK-based vulnerability scanner application
+- Built and deployed frontend application using React and Cloudflare pages
+- Maintained internal vulnerability scanning tool with Golang
+- Implemented CI/CD workflows using GitHub Actions
+- Set up and managed K8s cluster deployment with K3s
+- Technologies: Node.js, Go, MongoDB, Docker, K8s
 
-### Just Get Visible - Full-stack Developer (Freelance)
+### VAIS (Backend Developer) - Nov 2021 - Dec 2022
+Key Projects:
+1. Memobot.io (Speech-to-text Application)
+   - Developed Golang-based backend API with Redis messaging
+   - Containerized services with Docker
+   - Implemented CI/CD pipeline for mobile teams using CodeMagic
 
-- **Feb 2022 - Feb 2023**
-  - Developed [Securiwiser](https://www.securiwiser.com/), a vulnerability scanner application based in The UK.
-  - Responsibilities:
-    - Developed the frontend app with React and deployed it with Cloudflare pages.
-    - Maintained and developed the internal vulnerability scanning tool with Golang.
-    - Created CI/CD workflows for deploying the Backend API with GitHub Actions.
-    - Integrated NodeJS K8s SDK for controlling scanner pods.
-    - Set up a K8s cluster with K3s.
-    - Worked directly with the customer to clarify the requirements.
-  - Technologies used: Nodejs, Go, Mongo, Docker, K8s.
+2. BackHug (UK-based Massage Bed Company)
+   - Created REST API using NestJS with PostgreSQL full-text-search
+   - Maintained 80%+ test coverage using Jest
+   - Implemented admin dashboard features
+   - Managed GitlabCI pipeline for DigitalOcean deployment
 
-### VAIS (Vietnam AI System) - Backend Developer
+Technologies: Go, Node.js, PostgreSQL, Redis, Docker, React/NextJS, Tailwind
 
-- **Nov 2021 - Dec 2022**
-  - Key projects:
-    1. [Memobot](https://memobot.io/) - A speech-to-text voice recording application.
-       - Collaborated in designing and developing a meeting bot service for online meetings.
-       - Developed a backend API using Golang, utilizing Redis for messaging.
-       - Containerized the bot with Docker and deployed it internally.
-       - Help the mobile dev teams create the CI/CD pipeline to test/build/release the app with [CodeMagic](https://codemagic.io/).
-    2. [BackHug](https://mybackhug.com) - Outsourcing project for a massage bed company in The UK.
-       - Created REST API using NestJS, and implemented PostgreSQL full-text-search.
-       - Conducted unit testing with Jest, and maintained above 80% code coverage.
-       - Implemented UI features for the admin dashboard.
-       - Utilized GitlabCI for CI/CD pipeline for automatic deployment to DigitalOcean.
-       - Weekly meeting with the customer to discuss the sprint.
-  - Backend techs: Go, NodeJS, PostgreSQL, Redis, Docker, DigitalOcean.
-  - Frontend techs: React/NextJs, Tailwind.
-
-### Gameloft Ha Noi - Leap Program Participant
-
-- **Mar 2021 - Sep 2021**
-  - Immersed in Gameloft’s Leap Program, contributing to an agile development culture.
-  - Gained experience in C++, C#, and Unity, and developed soft skills.
-
-## Technical Skills
-
-- **Programming Languages**: Golang, NodeJS, Javascript/Typescript
-- **Tools**: Git, Vim, Tmux, Postman, VsCode, Jetbrains IDE, Jira
+## TECHNICAL SKILLS
+- **Programming Languages**: Go, JavaScript/TypeScript, Swift, Rust
+- **Cloud & DevOps**: AWS, DigitalOcean, Docker, Kubernetes, GitlabCI, GitHub Actions
 - **Databases**: PostgreSQL, Redis, MongoDB
-- **Shell Scripting and Linux Experience**: Ubuntu, CentOS
-- **CI/CD Tools**: GitlabCI, GitHub Actions
-- **Cloud Services and Containerization**: AWS, DigitalOcean, Docker, Kubernetes
+- **Development Tools**: Git, Vim, Tmux, Postman, VS Code, XCode, Jira
+- **Operating Systems**: Ubuntu, CentOS
 
 ## PERSONAL PROJECTS
 
-1. [Tikim](https://apps.apple.com/app/tikim/id6727017255) - A personal expense tracker iOS app made with SwiftUI.
-2. [Text2Audio](https://text2audio.cc) - An online text-to-speech tool built with Deno and Fresh for API and front-end, Google API for speech conversion, and Cloudflare R2 for audio storage. It has about 20k page views per month.
-3. [TypeView](https://typeview.db99.dev) - A keystrokes visualizer and mechanical key sound simulator, useful for tutorials and presentations.
-4. [Meeting bot](https://github.com/dunkbing/meeting-bot) - A Golang bot designed for recording online meetings, used in the [Memobot](https://memobot.io/) application.
-5. [Resume management with Git](https://github.com/dunkbing/dunkbing) - A repository that stores my Github profile configs and helps manage my resume with GitHub Actions. I wrote a [detailed post](https://dev.to/dunkbing/managing-my-resume-with-git-a-version-control-approach-7hk) about it [here](https://dev.to/dunkbing/managing-my-resume-with-git-a-version-control-approach-7hk).
+1. **[Text2Audio](https://text2audio.cc)**
+   - Online text-to-speech tool with 20k monthly views
+   - Built with Deno, Fresh, Google API, Cloudflare R2
+
+2. **[TypeView](https://typeview.db99.dev)**
+   - Keystrokes visualizer and mechanical key sound simulator
+   - Useful for tutorials and presentations
+   - Built with Rust & Tauri
 
 ## EDUCATION
-
-- FPT University (October 2017 - 2021): Graduated in Software Engineering with a focus on backend development.
+FPT University (2017-2021) - Bachelor's in Software Engineering
+- Focus: Backend Development
