@@ -19,13 +19,14 @@ Experienced backend developer with expertise in web application development, tes
 
 ## EXPERIENCES
 
-### [Tikim](https://apps.apple.com/vn/app/tikim-expense-tracker/id6727017255) - Aug 2024 - Present
-- Native iOS expense tracker app with iCloud sync
-- Features: Daily expense tracking, statistical charts, budgets & assets management
-- 10k+ downloads
-- Technologies: SwiftUI, CoreData, CloudKit
+### [Siraya Tech](https://sirayatech.com/) (Golang Developer) - Feb 2024 - Oct 2024
+- Developed a CDN wrapper system utilizing CDNetworks’ API infrastructure
+- Designed and implemented both API architecture and frontend interface
+- Deployed backend and frontend systems to VPS
+- Collaborated with Taiwan-based team to ensure project alignment
+- Technologies: Golang, React, MySQL
 
-### FPT Software (Full-stack Developer) - Feb 2023 - Dec 2023
+### FPT Software (Full-stack Developer) - Jan 2023 - Feb 2024
 - Contributed to KrisShop E-commerce's Smart Inventory Management System
 - Maintained and developed features using Node.js, React, and AWS services
 - Participated in customer meetings and managed assigned project tasks
@@ -33,7 +34,7 @@ Experienced backend developer with expertise in web application development, tes
 - Worked closely with QA teams for error diagnosis and resolution
 - Technologies: Node.js, React, MySQL, AWS (S3/Lambda/RDS)
 
-### Just Get Visible (Full-stack Developer) - Feb 2022 - Feb 2023
+### Just Get Visible (Remote/Freelancer - Fullstack Developer) - Feb 2022 - Feb 2023
 - Developed Securiwiser, a UK-based vulnerability scanner application
 - Built and deployed frontend application using React and Cloudflare pages
 - Maintained internal vulnerability scanning tool with Golang
@@ -65,11 +66,17 @@ Technologies: Go, Node.js, PostgreSQL, Redis, Docker, React/NextJS, Tailwind
 
 ## PERSONAL PROJECTS
 
-1. **[Text2Audio](https://text2audio.cc)**
+1. **[Tikim](https://apps.apple.com/vn/app/tikim-expense-tracker/id6727017255)**
+    - Native iOS expense tracker app
+    - Features: Daily expense tracking, statistical charts, budgets & assets & debts management, iCloud sync
+    - 10k+ downloads
+    - Technologies: SwiftUI, CoreData, CloudKit
+
+2. **[Text2Audio](https://text2audio.cc)**
    - Online text-to-speech tool with 20k monthly views
    - Built with Deno, Fresh, Google API, Cloudflare R2
 
-2. **[TypeView](https://typeview.db99.dev)**
+3. **[TypeView](https://typeview.db99.dev)**
    - Keystrokes visualizer and mechanical key sound simulator
    - Useful for tutorials and presentations
    - Built with Rust & Tauri
