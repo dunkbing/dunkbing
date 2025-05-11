@@ -19,6 +19,13 @@ Experienced backend developer with expertise in web application development, tes
 
 ## EXPERIENCES
 
+### Eagleload (RemotFullstack Developer) - Nov 2024 - Current
+- Developed eagleload.com, a US-based LTL shipment management system
+- Built and deployed frontend application using NextJS and Vercel
+- Implemented CI/CD workflows using GitHub Actions
+- Set up and deploy the backend app on AWS ECS
+- Technologies: Node.js, Bun, Postgres, Docker, AWS
+
 ### [Siraya Tech](https://sirayatech.com/) (Golang Developer) - Feb 2024 - Oct 2024
 - Developed a CDN wrapper system utilizing CDNetworks’ API infrastructure
 - Designed and implemented both API architecture and frontend interface
