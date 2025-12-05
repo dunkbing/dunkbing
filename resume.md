@@ -1,5 +1,6 @@
 ---
 header-includes:
+  - '\usepackage{hyperref}'
   - '\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}'
 ---
 
@@ -8,8 +9,8 @@ header-includes:
 | **Contact**      | **Links**                                       |
 |------------------|-------------------------------------------------|
 | Location         | Van Phu, Ha Dong, Ha Noi                        |
-| Phone            | +84393631923                                    |
-| Email            | dangbinh4869@gmail.com                          |
+| Phone            | {{PHONE}}                                       |
+| Email            | {{EMAIL}}                                       |
 | Personal Site    | [db99.dev](https://db99.dev)                    |
 | Github           | [dunkbing](https://github.com/dunkbing)         |
 | Skype            | dangbinh4869                                    |

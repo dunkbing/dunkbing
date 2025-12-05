@@ -2,20 +2,24 @@
 # prerequisites(Mac): pandoc, basictex
 
 RESUME = resume.md
+RESUME_PROCESSED = resume_processed.md
 OUTPUT_DIR = output
 BRANCH_NAME := $(shell git rev-parse --abbrev-ref HEAD)
 FONTS_DIR = fonts
 
 all: docx pdf
 
-docx:
-	@mkdir -p $(OUTPUT_DIR)
-	pandoc $(RESUME) -o $(OUTPUT_DIR)/BinhBD_resume-$(BRANCH_NAME).docx
+process-resume:
+	@sed -e 's/{{EMAIL}}/$(EMAIL)/g' -e 's/{{PHONE}}/$(PHONE)/g' $(RESUME) > $(RESUME_PROCESSED)
 
-pdf:
+docx: process-resume
+	@mkdir -p $(OUTPUT_DIR)
+	pandoc $(RESUME_PROCESSED) -o $(OUTPUT_DIR)/BinhBD_resume-$(BRANCH_NAME).docx
+
+pdf: process-resume
 	@mkdir -p $(OUTPUT_DIR)
 	cp -r $(FONTS_DIR)/* $(OUTPUT_DIR)/
-	pandoc $(RESUME) -o $(OUTPUT_DIR)/BinhBD_resume-$(BRANCH_NAME).pdf \
+	pandoc $(RESUME_PROCESSED) -o $(OUTPUT_DIR)/BinhBD_resume-$(BRANCH_NAME).pdf \
 		--pdf-engine=xelatex \
 		--variable mainfont="JetBrainsMono-Regular" \
 		--variable boldfont="JetBrainsMono-Bold" \
@@ -31,6 +35,6 @@ pdf:
 		--pdf-engine-opt=--shell-escape
 
 clean:
-	rm -rf $(OUTPUT_DIR)
+	rm -rf $(OUTPUT_DIR) $(RESUME_PROCESSED)
 
-.PHONY: all docx pdf clean
+.PHONY: all docx pdf clean process-resume
