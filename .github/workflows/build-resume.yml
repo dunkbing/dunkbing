@@ -1,6 +1,7 @@
 name: Build and Deploy Resume
 
-on: push
+on:
+  workflow_dispatch:
 
 jobs:
   build:
@@ -35,6 +36,9 @@ jobs:
         shell: bash
 
       - name: Build Resume
+        env:
+          EMAIL: ${{ secrets.EMAIL }}
+          PHONE: ${{ secrets.PHONE }}
         run: |
           mkdir -p output
           make all
