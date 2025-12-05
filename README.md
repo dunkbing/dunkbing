@@ -5,8 +5,8 @@
 ### Featured Projects
 
 1. [Tikim](https://apps.apple.com/app/tikim/id6727017255) - A personal expense tracker iOS app made with SwiftUI.
-2. [Text2Audio](https://text2audio.cc) - An online text-to-speech tool built with Deno and Fresh for API and front-end, Google API for speech conversion, and Cloudflare R2 for audio storage. It has about 20k page views per month.
-3. [TypeView](https://typeview.db99.dev) - A keystrokes visualizer and mechanical key sound simulator, useful for tutorials and presentations.
+2. [Kanaji](https://apps.apple.com/app/kanaji-learn-japanese-kanji/id6746691565) - Offline iOS application for learning and practicing writing Japanese Kanji.
+3. [KeyStaff](https://apps.apple.com/app/keystaff/id6753950371) - A simple iOS app for learning to read music notes.
 
 ---
 From [dunkbing](https://db99.dev)
