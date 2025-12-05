@@ -72,7 +72,7 @@ Technologies: Go, Node.js, PostgreSQL, Redis, Docker, React/NextJS, Tailwind
     - A simple iOS app for learning to read music notes.
     - 2k+ downloads
 
-4. **[DearSQL](https://apps.apple.com/app/keystaff/id6753950371)**
+4. **[DearSQL](https://dearsql.db99.dev)**
     - An extremely lightweight database client desktop app
     - Work in progress
     - Tech: C++, Imgui
