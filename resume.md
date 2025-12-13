@@ -25,10 +25,15 @@ Experienced backend developer with expertise in web application development, tes
 ### [Eagleload](https://eagleload.com) (Remote Fullstack Developer) - Dec 2023 - Current
 
 - Developed eagleload.com, a US-based LTL shipment management system
-- Built and deployed frontend application using NextJS and Vercel
+- Built frontend application using Next.js 15 with App Router architecture
+- Implemented Server Components and Server Actions for optimized data fetching
+- Utilized React Server Components (RSC) to reduce client-side JavaScript bundle
+- Built RESTful API using Hono framework with Bun runtime
+- Deployed and managed frontend on Vercel with edge functions
+- Developed cross-platform mobile application using React Native
 - Implemented CI/CD workflows using GitHub Actions
 - Set up and deployed the backend app on AWS ECS
-- Technologies: NextJS, Bun, Postgres, Docker, AWS
+- Technologies: Next.js 15, React 19, React Native, TypeScript, Hono, Bun, Postgres, Docker, AWS
 
 ### FPT Software (Full-stack Developer) - Jan 2023 - Dec 2023
 
