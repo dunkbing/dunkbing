@@ -1,0 +1,42 @@
+#!/bin/bash
+
+NOTES_DIR="$HOME/notes"
+mkdir -p "$NOTES_DIR"
+
+case "${1:-}" in
+    todo|-t)
+        # find all todos in notes, select with fzf, open at exact line
+        selected=$(grep -rn "\- \[ \]" "$NOTES_DIR" 2>/dev/null | \
+            fzf --delimiter=: \
+                --preview="bat --color=always --highlight-line {2} {1} 2>/dev/null || cat {1}")
+
+        if [[ -n "$selected" ]]; then
+            file=$(echo "$selected" | cut -d: -f1)
+            line=$(echo "$selected" | cut -d: -f2)
+            vim "+$line" "$file"
+        fi
+        ;;
+    search|-s)
+        selected=$(grep -rn "${2:-.}" "$NOTES_DIR" 2>/dev/null | \
+            fzf --delimiter=: \
+                --preview="bat --color=always --highlight-line {2} {1} 2>/dev/null || cat {1}" \
+                --preview-window="up:60%")
+
+        if [[ -n "$selected" ]]; then
+            file=$(echo "$selected" | cut -d: -f1)
+            line=$(echo "$selected" | cut -d: -f2)
+            vim "+$line" "$file"
+        fi
+        ;;
+    list|-l)
+        selected=$(ls -t "$NOTES_DIR"/*.md 2>/dev/null | \
+            fzf --preview="bat --color=always {} 2>/dev/null || cat {}")
+
+        [[ -n "$selected" ]] && vim "$selected"
+        ;;
+    *)
+        # open today's note
+        DATE=$(date +%Y-%m-%d)
+        vim "$NOTES_DIR/$DATE.md"
+        ;;
+esac
