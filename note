@@ -29,14 +29,52 @@ case "${1:-}" in
         fi
         ;;
     list|-l)
-        selected=$(ls -t "$NOTES_DIR"/*.md 2>/dev/null | \
+        selected=$(find "$NOTES_DIR" -type f -name "*.md" -print0 2>/dev/null | \
+            xargs -0 ls -t 2>/dev/null | \
             fzf --preview="bat --color=always {} 2>/dev/null || cat {}")
 
         [[ -n "$selected" ]] && vim "$selected"
         ;;
+    sync|-y)
+        cd "$NOTES_DIR" || exit 1
+
+        if [[ ! -d .git ]]; then
+            echo "Initializing git repo..."
+            git init
+        fi
+
+        # check for remote origin
+        if ! git remote get-url origin &>/dev/null; then
+            echo -n "Enter git remote URL: "
+            read -r remote_url
+            if [[ -n "$remote_url" ]]; then
+                git remote add origin "$remote_url"
+            else
+                echo "No remote URL provided, skipping sync."
+                exit 1
+            fi
+        fi
+
+        # sync: pull, add, commit, push
+        git pull --rebase origin "$(git branch --show-current)" 2>/dev/null || true
+        git add -A
+        if ! git diff --cached --quiet; then
+            git commit -m "sync: $(date '+%Y-%m-%d %H:%M')"
+        fi
+        git push -u origin "$(git branch --show-current)"
+        echo "Synced!"
+        ;;
     *)
-        # open today's note
-        DATE=$(date +%Y-%m-%d)
-        vim "$NOTES_DIR/$DATE.md"
+        # open note by name or today's note if no arg
+        if [[ -n "${1:-}" ]]; then
+            note_path="$NOTES_DIR/$1"
+            # add .md extension if not present
+            [[ "$note_path" != *.md ]] && note_path="$note_path.md"
+            mkdir -p "$(dirname "$note_path")"
+            vim "$note_path"
+        else
+            DATE=$(date +%Y-%m-%d)
+            vim "$NOTES_DIR/$DATE.md"
+        fi
         ;;
 esac
