@@ -18,7 +18,7 @@ header-includes:
 
 ## SUMMARY
 
-Experienced backend developer with expertise in web application development, testing, and deployment. Over 3 years of programming experience specializing in NodeJS and Golang. Proven track record in cloud services (AWS, DigitalOcean) and containerization (Docker, K8s). Strong English communication skills demonstrated through successful international project collaborations.
+Experienced backend developer with expertise in web application development, testing, and deployment. Over 3 years of programming experience specializing in NodeJS and Golang. Good at containerization (Docker, K8s). Good English communication skills.
 
 ## EXPERIENCES
 
