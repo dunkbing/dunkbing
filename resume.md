@@ -18,7 +18,7 @@ header-includes:
 
 ## SUMMARY
 
-Experienced backend developer with expertise in web application development, testing, and deployment. 4+ years of programming experience specializing in NodeJS and Golang. Good at containerization (Docker, K8s). Good English communication skills.
+Experienced backend developer with expertise in web application development, testing, and deployment. 4+ years of programming experience specializing in NodeJS and Golang. Proficient in containerization (Docker, K8s). Good English communication skills.
 
 ## EXPERIENCES
 
@@ -26,14 +26,13 @@ Experienced backend developer with expertise in web application development, tes
 
 - Developed eagleload.com, a US-based LTL shipment management system
 - Built frontend application using Next.js 15 with App Router architecture
-- Implemented Server Components and Server Actions for optimized data fetching
-- Utilized React Server Components (RSC) to reduce client-side JavaScript bundle
-- Built RESTful API using Hono framework with Bun runtime
+- Developed cross-platform mobile application using React Native and Expo router
+- Built RESTful API using Hono with Bun runtime. Utilized Hono API client for both the web and mobile app
+- Used monorepo (Bun workspaces) for code reuse.
 - Deployed and managed frontend on Vercel with edge functions
-- Developed cross-platform mobile application using React Native
 - Implemented CI/CD workflows using GitHub Actions
 - Set up and deployed the backend app on AWS ECS
-- Technologies: Next.js 15, React 19, React Native, TypeScript, Hono, Bun, Postgres, Docker, AWS
+- Technologies: Next.js, React, React Native, TypeScript, Hono, Bun, Postgres, Docker, AWS
 
 ### FPT Software (Full-stack Developer) - Jan 2023 - Dec 2023
 
@@ -64,34 +63,33 @@ Technologies: Go, Node.js, PostgreSQL, Redis, Docker, React/NextJS, Tailwind
 ## PERSONAL PROJECTS
 
 1. **[Tikim](https://apps.apple.com/app/tikim-expense-tracker/id6727017255)**
-    - Offline native iOS expense tracker app
+    - An offline native iOS expense tracker app
     - Features: Daily expense tracking, statistical charts, budgets & assets & debts management, iCloud sync
     - 20k+ downloads
-    - Technologies: SwiftUI, CoreData, CloudKit
+    - Tech: SwiftUI, CoreData, CloudKit
 
 2. **[Kanaji](https://apps.apple.com/app/kanaji-learn-japanese-kanji/id6746691565)**
-    - Offline iOS application for learning and practicing writing Japanese Kanji
+    - An offline iOS application for learning and practicing Japanese Kanji writing
     - 10k+ downloads
+    - Tech: React Native, CloudKit, Bun
 
 3. **[KeyStaff](https://apps.apple.com/app/keystaff/id6753950371)**
     - A simple iOS app for learning to read music notes.
     - 2k+ downloads
+    - Tech: Swift/SwiftUI
 
 4. **[DearSQL](https://dearsql.db99.dev)**
-    - An extremely lightweight database client desktop app
+    - An extremely lightweight desktop database client
     - Work in progress
-    - Tech: C++, Imgui
+    - Tech: C++, Imgui, Objective-C
 
 ## TECHNICAL SKILLS
 
 - **Programming Languages**: Go, JavaScript/TypeScript, C++, Swift
 - **Cloud & DevOps**: AWS, DigitalOcean, Docker, Kubernetes, GitlabCI, GitHub Actions
 - **Databases**: PostgreSQL, Redis, MongoDB
-- **Development Tools**: Git, Vim, Tmux, Postman, VS Code, XCode, Jira
-- **Operating Systems**: Ubuntu, Fedora, CentOS
+- **Development Tools**: Git, Vim, Tmux, Postman, VS Code, XCode
 
 ## EDUCATION
 
 FPT University (2017-2021) - Bachelor's in Software Engineering
-
-- Focus: Backend Development
