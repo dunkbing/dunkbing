@@ -62,26 +62,26 @@ Technologies: Go, Node.js, PostgreSQL, Redis, Docker, React/NextJS, Tailwind
 
 ## PERSONAL PROJECTS
 
-1. **[Tikim](https://apps.apple.com/app/tikim-expense-tracker/id6727017255)**
+1. **[Kanaji](https://apps.apple.com/app/kanaji-learn-japanese-kanji/id6746691565)**
+    - An offline iOS application for learning and practicing Japanese Kanji writing
+    - 10k+ downloads
+    - Tech: React Native, CloudKit, Bun
+
+2. **[Tikim](https://apps.apple.com/app/tikim-expense-tracker/id6727017255)**
     - An offline native iOS expense tracker app
     - Features: Daily expense tracking, statistical charts, budgets & assets & debts management, iCloud sync
     - 20k+ downloads
     - Tech: SwiftUI, CoreData, CloudKit
 
-2. **[Kanaji](https://apps.apple.com/app/kanaji-learn-japanese-kanji/id6746691565)**
-    - An offline iOS application for learning and practicing Japanese Kanji writing
-    - 10k+ downloads
-    - Tech: React Native, CloudKit, Bun
-
-3. **[KeyStaff](https://apps.apple.com/app/keystaff/id6753950371)**
-    - A simple iOS app for learning to read music notes.
-    - 2k+ downloads
-    - Tech: Swift/SwiftUI
-
-4. **[DearSQL](https://dearsql.db99.dev)**
+3. **[DearSQL](https://dearsql.db99.dev)**
     - An extremely lightweight desktop database client
     - Work in progress
     - Tech: C++, Imgui, Objective-C
+
+4. **[KeyStaff](https://apps.apple.com/app/keystaff/id6753950371)**
+    - A simple iOS app for learning to read music notes.
+    - 2k+ downloads
+    - Tech: Swift/SwiftUI
 
 ## TECHNICAL SKILLS
 
