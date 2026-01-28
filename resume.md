@@ -18,7 +18,29 @@ header-includes:
 
 ## SUMMARY
 
-Experienced backend developer with expertise in web application development, testing, and deployment. 4+ years of programming experience specializing in NodeJS and Golang. Proficient in containerization (Docker, K8s). Good English communication skills.
+Mobile-focused software developer with 4+ years of experience building iOS and cross-platform apps alongside backend systems. Strong in Swift/SwiftUI and React Native, plus NodeJS/Golang APIs, testing, and deployment. Proficient in containerization (Docker, K8s) and reliable English communication.
+
+## PERSONAL PROJECTS
+
+1. **[Kanaji](https://kanaji.db99.dev)**
+    - An offline iOS application for learning and practicing Japanese Kanji writing
+    - 10k+ downloads
+    - Tech: React Native, Sqlite, CloudKit, Bun
+
+2. **[Tikim](https://apps.apple.com/app/tikim-expense-tracker/id6727017255)**
+    - Native iOS expense tracker with daily logging, budgets, assets/debts, and charts
+    - 20k+ downloads; iCloud sync and offline-first UX to keep data private
+    - Tech: SwiftUI, CoreData, CloudKit
+
+3. **[DearSQL](https://dearsql.db99.dev)**
+    - Minimal cross platform desktop database client focused on speed and tiny footprint
+    - Work in progress
+    - Tech: C++, Imgui, Gtk (Linux), Objective-C (Mac)
+
+4. **[KeyStaff](https://apps.apple.com/app/keystaff/id6753950371)**
+    - A simple iOS app for learning to read music notes, guitar strings, or piano keys.
+    - 2k+ downloads
+    - Tech: Swift/SwiftUI
 
 ## EXPERIENCES
 
@@ -26,7 +48,7 @@ Experienced backend developer with expertise in web application development, tes
 
 - Developed eagleload.com, a US-based LTL shipment management system
 - Built frontend application using Next.js 15 with App Router architecture
-- Developed cross-platform mobile application using React Native and Expo router
+- Developed cross-platform mobile application using React Native and Expo Router
 - Built RESTful API using Hono with Bun runtime. Utilized Hono API client for both the web and mobile app
 - Used monorepo (Bun workspaces) for code reuse.
 - Deployed and managed frontend on Vercel with edge functions
@@ -60,33 +82,11 @@ Key Projects:
 
 Technologies: Go, Node.js, PostgreSQL, Redis, Docker, React/NextJS, Tailwind
 
-## PERSONAL PROJECTS
-
-1. **[Kanaji](https://apps.apple.com/app/kanaji-learn-japanese-kanji/id6746691565)**
-    - An offline iOS application for learning and practicing Japanese Kanji writing
-    - 10k+ downloads
-    - Tech: React Native, Sqlite, CloudKit, Bun
-
-2. **[Tikim](https://apps.apple.com/app/tikim-expense-tracker/id6727017255)**
-    - An offline native iOS expense tracker app
-    - Features: Daily expense tracking, statistical charts, budgets & assets & debts management, iCloud sync
-    - 20k+ downloads
-    - Tech: SwiftUI, CoreData, CloudKit
-
-3. **[DearSQL](https://dearsql.db99.dev)**
-    - An extremely lightweight desktop database client
-    - Work in progress
-    - Tech: C++, Imgui, Objective-C
-
-4. **[KeyStaff](https://apps.apple.com/app/keystaff/id6753950371)**
-    - A simple iOS app for learning to read music notes.
-    - 2k+ downloads
-    - Tech: Swift/SwiftUI
-
 ## TECHNICAL SKILLS
 
-- **Programming Languages**: Go, JavaScript/TypeScript, C++, Swift
-- **Cloud & DevOps**: AWS, DigitalOcean, Docker, Kubernetes, GitlabCI, GitHub Actions
+- **Programming Languages**: Swift, JavaScript/TypeScript, Go, C++
+- **Mobile & iOS**: SwiftUI, React Native, Expo, CoreData, CloudKit
+- **Cloud & Infra**: AWS, DigitalOcean, Docker, Kubernetes, GitlabCI, GitHub Actions
 - **Databases**: PostgreSQL, Redis, MongoDB
 - **Development Tools**: Git, Vim, Tmux, Postman, VS Code, XCode
 
