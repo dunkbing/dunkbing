@@ -22,22 +22,28 @@ Mobile-focused software developer with 4+ years of experience building iOS and c
 
 ## PERSONAL PROJECTS
 
-1. **[Kanaji](https://kanaji.db99.dev)**
+1. **[Oshin](https://github.com/dunkbing/oshin)**
+    - Native macOS app for developers working with AI coding agents
+    - Combines Git client (visual commit graph, diff views), integrated terminal (Ghostty), and AI agent chat (Claude, Codex, Gemini) in one interface
+    - Custom Swift bindings for libgit2 that enable native Git operations (commits, branches, diffs) directly in Swift without shelling out to CLI
+    - Tech: SwiftUI, SwiftData, libgit2, Ghostty (libghostty)
+
+2. **[DearSQL](https://dearsql.db99.dev)**
+    - Minimal cross platform desktop database client focused on speed and tiny footprint
+    - Support Postgres, Mysql, Sqlite, MongoDB, and Redis
+    - Tech: C++, Imgui, Gtk (Linux), Objective-C (Mac)
+
+3. **[Kanaji](https://kanaji.db99.dev)**
     - An offline iOS application for learning and practicing Japanese Kanji writing
     - 10k+ downloads
     - Tech: React Native, Sqlite, CloudKit, Bun
 
-2. **[Tikim](https://apps.apple.com/app/tikim-expense-tracker/id6727017255)**
+4. **[Tikim](https://apps.apple.com/app/tikim-expense-tracker/id6727017255)**
     - Native iOS expense tracker with daily logging, budgets, assets/debts, and charts
     - 20k+ downloads; iCloud sync and offline-first UX to keep data private
     - Tech: SwiftUI, CoreData, CloudKit
 
-3. **[DearSQL](https://dearsql.db99.dev)**
-    - Minimal cross platform desktop database client focused on speed and tiny footprint
-    - Work in progress
-    - Tech: C++, Imgui, Gtk (Linux), Objective-C (Mac)
-
-4. **[KeyStaff](https://apps.apple.com/app/keystaff/id6753950371)**
+5. **[KeyStaff](https://apps.apple.com/app/keystaff/id6753950371)**
     - A simple iOS app for learning to read music notes, guitar strings, or piano keys.
     - 2k+ downloads
     - Tech: Swift/SwiftUI
